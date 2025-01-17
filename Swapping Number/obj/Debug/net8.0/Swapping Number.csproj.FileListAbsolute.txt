@@ -1,0 +1,15 @@
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\bin\Debug\net8.0\Swapping Number.exe
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\bin\Debug\net8.0\Swapping Number.deps.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\bin\Debug\net8.0\Swapping Number.runtimeconfig.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\bin\Debug\net8.0\Swapping Number.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\bin\Debug\net8.0\Swapping Number.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\Swapping Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\Swapping Number.AssemblyInfoInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\Swapping Number.AssemblyInfo.cs
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\Swapping Number.csproj.CoreCompileInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\Swapping Number.sourcelink.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\Swapping Number.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\refint\Swapping Number.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\Swapping Number.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\Swapping Number.genruntimeconfig.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Swapping Number\obj\Debug\net8.0\ref\Swapping Number.dll

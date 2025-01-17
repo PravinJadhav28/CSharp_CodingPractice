@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\Pattern\\Pattern.csproj",
-      "projectName": "Pattern",
-      "projectPath": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\Pattern\\Pattern.csproj",
+      "projectUniqueName": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\Swapping Number\\Swapping Number.csproj",
+      "projectName": "Swapping Number",
+      "projectPath": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\Swapping Number\\Swapping Number.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\Pattern\\obj\\",
+      "outputPath": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\Swapping Number\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

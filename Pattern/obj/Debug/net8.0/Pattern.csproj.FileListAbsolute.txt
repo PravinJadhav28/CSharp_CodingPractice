@@ -12,3 +12,18 @@ E:\V# Practice\C# Coding Practice\C#_CodingPractice\Pattern\obj\Debug\net8.0\ref
 E:\V# Practice\C# Coding Practice\C#_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.pdb
 E:\V# Practice\C# Coding Practice\C#_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.genruntimeconfig.cache
 E:\V# Practice\C# Coding Practice\C#_CodingPractice\Pattern\obj\Debug\net8.0\ref\Pattern.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\bin\Debug\net8.0\Pattern.exe
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\bin\Debug\net8.0\Pattern.deps.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\bin\Debug\net8.0\Pattern.runtimeconfig.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\bin\Debug\net8.0\Pattern.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\bin\Debug\net8.0\Pattern.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.AssemblyInfoInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.AssemblyInfo.cs
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.csproj.CoreCompileInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.sourcelink.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\refint\Pattern.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\Pattern.genruntimeconfig.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Pattern\obj\Debug\net8.0\ref\Pattern.dll
