@@ -1,0 +1,15 @@
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\bin\Debug\net8.0\pallindrome.exe
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\bin\Debug\net8.0\pallindrome.deps.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\bin\Debug\net8.0\pallindrome.runtimeconfig.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\bin\Debug\net8.0\pallindrome.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\bin\Debug\net8.0\pallindrome.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\pallindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\pallindrome.AssemblyInfoInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\pallindrome.AssemblyInfo.cs
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\pallindrome.csproj.CoreCompileInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\pallindrome.sourcelink.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\pallindrome.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\refint\pallindrome.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\pallindrome.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\pallindrome.genruntimeconfig.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\pallindrome\obj\Debug\net8.0\ref\pallindrome.dll
