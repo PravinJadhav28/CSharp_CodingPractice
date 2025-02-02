@@ -1,0 +1,15 @@
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\bin\Debug\net8.0\RemoveSpecialCharacter.exe
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\bin\Debug\net8.0\RemoveSpecialCharacter.deps.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\bin\Debug\net8.0\RemoveSpecialCharacter.runtimeconfig.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\bin\Debug\net8.0\RemoveSpecialCharacter.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\bin\Debug\net8.0\RemoveSpecialCharacter.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\RemoveSpecialCharacter.GeneratedMSBuildEditorConfig.editorconfig
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\RemoveSpecialCharacter.AssemblyInfoInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\RemoveSpecialCharacter.AssemblyInfo.cs
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\RemoveSpecialCharacter.csproj.CoreCompileInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\RemoveSpecialCharacter.sourcelink.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\RemoveSpecialCharacter.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\refint\RemoveSpecialCharacter.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\RemoveSpecialCharacter.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\RemoveSpecialCharacter.genruntimeconfig.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\RemoveSpecialCharacter\obj\Debug\net8.0\ref\RemoveSpecialCharacter.dll

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern", "Pattern\Pattern.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping Number", "Swapping Number\Swapping Number.csproj", "{97827CA8-B0AD-48EB-BB71-155799680EA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pallindrome", "pallindrome\pallindrome.csproj", "{6761CFE7-57AE-4E47-89BB-6B1E40133DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveSpecialCharacter", "RemoveSpecialCharacter\RemoveSpecialCharacter.csproj", "{0F0307CF-B448-46A3-8B0D-EAAE7B291736}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{97827CA8-B0AD-48EB-BB71-155799680EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97827CA8-B0AD-48EB-BB71-155799680EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97827CA8-B0AD-48EB-BB71-155799680EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6761CFE7-57AE-4E47-89BB-6B1E40133DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6761CFE7-57AE-4E47-89BB-6B1E40133DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6761CFE7-57AE-4E47-89BB-6B1E40133DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6761CFE7-57AE-4E47-89BB-6B1E40133DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0307CF-B448-46A3-8B0D-EAAE7B291736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0307CF-B448-46A3-8B0D-EAAE7B291736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0307CF-B448-46A3-8B0D-EAAE7B291736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0307CF-B448-46A3-8B0D-EAAE7B291736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
