@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pallindrome", "pallindrome\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveSpecialCharacter", "RemoveSpecialCharacter\RemoveSpecialCharacter.csproj", "{0F0307CF-B448-46A3-8B0D-EAAE7B291736}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Number", "Reverse Number\Reverse Number.csproj", "{E35C8128-3B16-4554-A717-1EA3C8424FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Odd Number", "Even Odd Number\Even Odd Number.csproj", "{2EFA08AB-1409-47B3-8A98-52DEDDB4E112}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0F0307CF-B448-46A3-8B0D-EAAE7B291736}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F0307CF-B448-46A3-8B0D-EAAE7B291736}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F0307CF-B448-46A3-8B0D-EAAE7B291736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35C8128-3B16-4554-A717-1EA3C8424FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35C8128-3B16-4554-A717-1EA3C8424FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35C8128-3B16-4554-A717-1EA3C8424FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35C8128-3B16-4554-A717-1EA3C8424FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFA08AB-1409-47B3-8A98-52DEDDB4E112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFA08AB-1409-47B3-8A98-52DEDDB4E112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFA08AB-1409-47B3-8A98-52DEDDB4E112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFA08AB-1409-47B3-8A98-52DEDDB4E112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

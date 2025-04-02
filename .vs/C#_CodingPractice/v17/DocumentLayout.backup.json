@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F0307CF-B448-46A3-8B0D-EAAE7B291736}|RemoveSpecialCharacter\\RemoveSpecialCharacter.csproj|e:\\pravingithub\\c# coding practice\\c#_codingpractice\\csharp_codingpractice\\removespecialcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F0307CF-B448-46A3-8B0D-EAAE7B291736}|RemoveSpecialCharacter\\RemoveSpecialCharacter.csproj|solutionrelative:removespecialcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EFA08AB-1409-47B3-8A98-52DEDDB4E112}|Even Odd Number\\Even Odd Number.csproj|e:\\pravingithub\\c# coding practice\\c#_codingpractice\\csharp_codingpractice\\even odd number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFA08AB-1409-47B3-8A98-52DEDDB4E112}|Even Odd Number\\Even Odd Number.csproj|solutionrelative:even odd number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\RemoveSpecialCharacter\\Program.cs",
-              "RelativeDocumentMoniker": "RemoveSpecialCharacter\\Program.cs",
-              "ToolTip": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\RemoveSpecialCharacter\\Program.cs",
-              "RelativeToolTip": "RemoveSpecialCharacter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\Even Odd Number\\Program.cs",
+              "RelativeDocumentMoniker": "Even Odd Number\\Program.cs",
+              "ToolTip": "E:\\PravinGitHub\\C# Coding Practice\\C#_CodingPractice\\CSharp_CodingPractice\\Even Odd Number\\Program.cs*",
+              "RelativeToolTip": "Even Odd Number\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:38:44.393Z",
+              "WhenOpened": "2025-04-02T18:48:00.87Z",
               "EditorCaption": ""
             }
           ]

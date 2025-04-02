@@ -1,0 +1,15 @@
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\bin\Debug\net8.0\Even Odd Number.exe
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\bin\Debug\net8.0\Even Odd Number.deps.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\bin\Debug\net8.0\Even Odd Number.runtimeconfig.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\bin\Debug\net8.0\Even Odd Number.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\bin\Debug\net8.0\Even Odd Number.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\Even Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\Even Odd Number.AssemblyInfoInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\Even Odd Number.AssemblyInfo.cs
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\Even Odd Number.csproj.CoreCompileInputs.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\Even Odd Number.sourcelink.json
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\Even Odd Number.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\refint\Even Odd Number.dll
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\Even Odd Number.pdb
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\Even Odd Number.genruntimeconfig.cache
+E:\PravinGitHub\C# Coding Practice\C#_CodingPractice\CSharp_CodingPractice\Even Odd Number\obj\Debug\net8.0\ref\Even Odd Number.dll
